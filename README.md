@@ -31,21 +31,22 @@
         <!-- Технологии без иконок - добавляем в конце -->
     </div>
     
-<!-- Технологии без картинок в конце -->
-<div style="margin-top: 20px; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <span style="background: #edf2f7; color: #2c3e50; padding: 6px 14px; border-radius: 20px; font-size: 0.9em; border: 1px solid #d0d9e4;">ООП</span>
-    <span style="background: #edf2f7; color: #2c3e50; padding: 6px 14px; border-radius: 20px; font-size: 0.9em; border: 1px solid #d0d9e4;">Алгоритмы</span>
-    <span style="background: #edf2f7; color: #2c3e50; padding: 6px 14px; border-radius: 20px; font-size: 0.9em; border: 1px solid #d0d9e4;">Структуры данных</span>
-    <span style="background: #edf2f7; color: #2c3e50; padding: 6px 14px; border-radius: 20px; font-size: 0.9em; border: 1px solid #d0d9e4;">CI/CD</span>
-    <span style="background: #edf2f7; color: #2c3e50; padding: 6px 14px; border-radius: 20px; font-size: 0.9em; border: 1px solid #d0d9e4;">API</span>
-    <span style="background: #edf2f7; color: #2c3e50; padding: 6px 14px; border-radius: 20px; font-size: 0.9em; border: 1px solid #d0d9e4;">aiogram</span>
-    <span style="background: #edf2f7; color: #2c3e50; padding: 6px 14px; border-radius: 20px; font-size: 0.9em; border: 1px solid #d0d9e4;">Scrapy</span>
-    <span style="background: #edf2f7; color: #2c3e50; padding: 6px 14px; border-radius: 20px; font-size: 0.9em; border: 1px solid #d0d9e4;">Unittest</span>
-    <span style="background: #edf2f7; color: #2c3e50; padding: 6px 14px; border-radius: 20px; font-size: 0.9em; border: 1px solid #d0d9e4;">ccxt</span>
-    <span style="background: #edf2f7; color: #2c3e50; padding: 6px 14px; border-radius: 20px; font-size: 0.9em; border: 1px solid #d0d9e4;">Pydantic</span>
-    <span style="background: #edf2f7; color: #2c3e50; padding: 6px 14px; border-radius: 20px; font-size: 0.9em; border: 1px solid #d0d9e4;">Uvicorn</span>
-    <span style="background: #edf2f7; color: #2c3e50; padding: 6px 14px; border-radius: 20px; font-size: 0.9em; border: 1px solid #d0d9e4;">Asyncio</span>
-</div>
+<!-- Технологии без иконок - аккуратное выделение -->
+<div style="margin-top: 20px; overflow-x: auto; white-space: nowrap; padding-bottom: 8px; -webkit-overflow-scrolling: touch; scrollbar-width: thin;">
+    <div style="display: inline-flex; gap: 10px;">
+        <span style="display: inline-block; background: #2c3e50; border-radius: 25px; padding: 8px 18px; color: white; font-size: 0.95em; font-weight: 500; letter-spacing: 0.3px;">ООП</span>
+        <span style="display: inline-block; background: #2c3e50; border-radius: 25px; padding: 8px 18px; color: white; font-size: 0.95em; font-weight: 500; letter-spacing: 0.3px;">Алгоритмы</span>
+        <span style="display: inline-block; background: #2c3e50; border-radius: 25px; padding: 8px 18px; color: white; font-size: 0.95em; font-weight: 500; letter-spacing: 0.3px;">Структуры данных</span>
+        <span style="display: inline-block; background: #2c3e50; border-radius: 25px; padding: 8px 18px; color: white; font-size: 0.95em; font-weight: 500; letter-spacing: 0.3px;">CI/CD</span>
+        <span style="display: inline-block; background: #2c3e50; border-radius: 25px; padding: 8px 18px; color: white; font-size: 0.95em; font-weight: 500; letter-spacing: 0.3px;">API</span>
+        <span style="display: inline-block; background: #2c3e50; border-radius: 25px; padding: 8px 18px; color: white; font-size: 0.95em; font-weight: 500; letter-spacing: 0.3px;">aiogram</span>
+        <span style="display: inline-block; background: #2c3e50; border-radius: 25px; padding: 8px 18px; color: white; font-size: 0.95em; font-weight: 500; letter-spacing: 0.3px;">Scrapy</span>
+        <span style="display: inline-block; background: #2c3e50; border-radius: 25px; padding: 8px 18px; color: white; font-size: 0.95em; font-weight: 500; letter-spacing: 0.3px;">Unittest</span>
+        <span style="display: inline-block; background: #2c3e50; border-radius: 25px; padding: 8px 18px; color: white; font-size: 0.95em; font-weight: 500; letter-spacing: 0.3px;">ccxt</span>
+        <span style="display: inline-block; background: #2c3e50; border-radius: 25px; padding: 8px 18px; color: white; font-size: 0.95em; font-weight: 500; letter-spacing: 0.3px;">Pydantic</span>
+        <span style="display: inline-block; background: #2c3e50; border-radius: 25px; padding: 8px 18px; color: white; font-size: 0.95em; font-weight: 500; letter-spacing: 0.3px;">Uvicorn</span>
+        <span style="display: inline-block; background: #2c3e50; border-radius: 25px; padding: 8px 18px; color: white; font-size: 0.95em; font-weight: 500; letter-spacing: 0.3px;">Asyncio</span>
+    </div>
 </div>
 
 <!-- Статистика -->
