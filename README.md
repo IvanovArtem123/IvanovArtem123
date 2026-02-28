@@ -6,70 +6,46 @@
     <h2 style="color: #2c3e50; border-bottom: 3px solid #5D6D7E; display: inline-block; padding-bottom: 8px;">🚀 Мой технологический стек</h2>
 </div>
 
-<!-- Языки программирования -->
-<div style="margin: 25px 0; background: #ffffff; padding: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); border: 1px solid #eaeef2;">
-    <h4 style="color: #34495e; margin: 0 0 15px 0; font-size: 1.2em;">💻 Языки программирования</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" style="margin: 8px; transition: transform 0.2s; opacity: 0.9;" onmouseover="this.style.transform='scale(1.08)'; this.style.opacity='1';" onmouseout="this.style.transform='scale(1)'; this.style.opacity='0.9';" title="Python"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" style="margin: 8px; transition: transform 0.2s; opacity: 0.9;" onmouseover="this.style.transform='scale(1.08)'; this.style.opacity='1';" onmouseout="this.style.transform='scale(1)'; this.style.opacity='0.9';" title="C++"/>
-</div>
-
-<!-- Фреймворки -->
-<div style="margin: 25px 0; background: #ffffff; padding: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); border: 1px solid #eaeef2;">
-    <h4 style="color: #34495e; margin: 0 0 15px 0; font-size: 1.2em;">🌐 Веб-фреймворки</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" height="50" style="margin: 8px; transition: transform 0.2s; opacity: 0.9;" onmouseover="this.style.transform='scale(1.08)'; this.style.opacity='1';" onmouseout="this.style.transform='scale(1)'; this.style.opacity='0.9';" title="Django"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="50" height="50" style="margin: 8px; transition: transform 0.2s; opacity: 0.9;" onmouseover="this.style.transform='scale(1.08)'; this.style.opacity='1';" onmouseout="this.style.transform='scale(1)'; this.style.opacity='0.9';" title="Flask"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" height="50" style="margin: 8px; transition: transform 0.2s; opacity: 0.9;" onmouseover="this.style.transform='scale(1.08)'; this.style.opacity='1';" onmouseout="this.style.transform='scale(1)'; this.style.opacity='0.9';" title="FastAPI"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" width="50" height="50" style="margin: 8px; transition: transform 0.2s; opacity: 0.9;" onmouseover="this.style.transform='scale(1.08)'; this.style.opacity='1';" onmouseout="this.style.transform='scale(1)'; this.style.opacity='0.9';" title="Django Rest Framework"/>
-</div>
-
-<!-- Базы данных -->
-<div style="margin: 25px 0; background: #ffffff; padding: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); border: 1px solid #eaeef2;">
-    <h4 style="color: #34495e; margin: 0 0 15px 0; font-size: 1.2em;">🗄️ Базы данных и ORM</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" style="margin: 8px; transition: transform 0.2s; opacity: 0.9;" onmouseover="this.style.transform='scale(1.08)'; this.style.opacity='1';" onmouseout="this.style.transform='scale(1)'; this.style.opacity='0.9';" title="PostgreSQL"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="50" height="50" style="margin: 8px; transition: transform 0.2s; opacity: 0.9;" onmouseover="this.style.transform='scale(1.08)'; this.style.opacity='1';" onmouseout="this.style.transform='scale(1)'; this.style.opacity='0.9';" title="SQLite"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="50" height="50" style="margin: 8px; transition: transform 0.2s; opacity: 0.9;" onmouseover="this.style.transform='scale(1.08)'; this.style.opacity='1';" onmouseout="this.style.transform='scale(1)'; this.style.opacity='0.9';" title="Redis"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="50" height="50" style="margin: 8px; transition: transform 0.2s; opacity: 0.9;" onmouseover="this.style.transform='scale(1.08)'; this.style.opacity='1';" onmouseout="this.style.transform='scale(1)'; this.style.opacity='0.9';" title="SQLAlchemy"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="50" height="50" style="margin: 8px; transition: transform 0.2s; opacity: 0.9;" onmouseover="this.style.transform='scale(1.08)'; this.style.opacity='1';" onmouseout="this.style.transform='scale(1)'; this.style.opacity='0.9';" title="Alembic"/>
-</div>
-
-<!-- Инструменты и DevOps -->
-<div style="margin: 25px 0; background: #ffffff; padding: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); border: 1px solid #eaeef2;">
-    <h4 style="color: #34495e; margin: 0 0 15px 0; font-size: 1.2em;">🛠️ Инструменты и DevOps</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" style="margin: 8px; transition: transform 0.2s; opacity: 0.9;" onmouseover="this.style.transform='scale(1.08)'; this.style.opacity='1';" onmouseout="this.style.transform='scale(1)'; this.style.opacity='0.9';" title="Git"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" style="margin: 8px; transition: transform 0.2s; opacity: 0.9;" onmouseover="this.style.transform='scale(1.08)'; this.style.opacity='1';" onmouseout="this.style.transform='scale(1)'; this.style.opacity='0.9';" title="GitHub"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" style="margin: 8px; transition: transform 0.2s; opacity: 0.9;" onmouseover="this.style.transform='scale(1.08)'; this.style.opacity='1';" onmouseout="this.style.transform='scale(1)'; this.style.opacity='0.9';" title="Docker"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50" style="margin: 8px; transition: transform 0.2s; opacity: 0.9;" onmouseover="this.style.transform='scale(1.08)'; this.style.opacity='1';" onmouseout="this.style.transform='scale(1)'; this.style.opacity='0.9';" title="Linux"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="50" height="50" style="margin: 8px; transition: transform 0.2s; opacity: 0.9;" onmouseover="this.style.transform='scale(1.08)'; this.style.opacity='1';" onmouseout="this.style.transform='scale(1)'; this.style.opacity='0.9';" title="Gunicorn/Nginx"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="50" height="50" style="margin: 8px; transition: transform 0.2s; opacity: 0.9;" onmouseover="this.style.transform='scale(1.08)'; this.style.opacity='1';" onmouseout="this.style.transform='scale(1)'; this.style.opacity='0.9';" title="Pytest"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="50" height="50" style="margin: 8px; transition: transform 0.2s; opacity: 0.9;" onmouseover="this.style.transform='scale(1.08)'; this.style.opacity='1';" onmouseout="this.style.transform='scale(1)'; this.style.opacity='0.9';" title="Selenium"/>
-</div>
-
-<!-- Дополнительные технологии -->
-<div style="margin: 25px 0; background: #ffffff; padding: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); border: 1px solid #eaeef2;">
-    <h4 style="color: #34495e; margin: 0 0 15px 0; font-size: 1.2em;">🔧 Дополнительные технологии</h4>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 15px;">
-        <span style="background: #edf2f7; color: #2c3e50; padding: 8px 18px; border-radius: 30px; font-size: 0.95em; font-weight: 500; border: 1px solid #d0d9e4;">ООП</span>
-        <span style="background: #edf2f7; color: #2c3e50; padding: 8px 18px; border-radius: 30px; font-size: 0.95em; font-weight: 500; border: 1px solid #d0d9e4;">Алгоритмы</span>
-        <span style="background: #edf2f7; color: #2c3e50; padding: 8px 18px; border-radius: 30px; font-size: 0.95em; font-weight: 500; border: 1px solid #d0d9e4;">Структуры данных</span>
-        <span style="background: #edf2f7; color: #2c3e50; padding: 8px 18px; border-radius: 30px; font-size: 0.95em; font-weight: 500; border: 1px solid #d0d9e4;">CI/CD</span>
-        <span style="background: #edf2f7; color: #2c3e50; padding: 8px 18px; border-radius: 30px; font-size: 0.95em; font-weight: 500; border: 1px solid #d0d9e4;">API</span>
-        <span style="background: #edf2f7; color: #2c3e50; padding: 8px 18px; border-radius: 30px; font-size: 0.95em; font-weight: 500; border: 1px solid #d0d9e4;">aiogram</span>
-        <span style="background: #edf2f7; color: #2c3e50; padding: 8px 18px; border-radius: 30px; font-size: 0.95em; font-weight: 500; border: 1px solid #d0d9e4;">Scrapy</span>
-        <span style="background: #edf2f7; color: #2c3e50; padding: 8px 18px; border-radius: 30px; font-size: 0.95em; font-weight: 500; border: 1px solid #d0d9e4;">Unittest</span>
-        <span style="background: #edf2f7; color: #2c3e50; padding: 8px 18px; border-radius: 30px; font-size: 0.95em; font-weight: 500; border: 1px solid #d0d9e4;">ccxt</span>
-        <span style="background: #edf2f7; color: #2c3e50; padding: 8px 18px; border-radius: 30px; font-size: 0.95em; font-weight: 500; border: 1px solid #d0d9e4;">Pydantic</span>
-        <span style="background: #edf2f7; color: #2c3e50; padding: 8px 18px; border-radius: 30px; font-size: 0.95em; font-weight: 500; border: 1px solid #d0d9e4;">Uvicorn</span>
-        <span style="background: #edf2f7; color: #2c3e50; padding: 8px 18px; border-radius: 30px; font-size: 0.95em; font-weight: 500; border: 1px solid #d0d9e4;">Asyncio</span>
+<!-- Единый блок со стеком: все технологии подряд -->
+<div style="margin: 25px 0; background: #ffffff; padding: 25px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); border: 1px solid #eaeef2;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+        <!-- Иконки технологий -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="Python"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="C++"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="45" height="45" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="Django"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="45" height="45" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="Flask"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="45" height="45" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="FastAPI"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" width="45" height="45" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="Django Rest Framework"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="PostgreSQL"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="45" height="45" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="SQLite"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="45" height="45" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="Redis"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="45" height="45" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="SQLAlchemy"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="45" height="45" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="Alembic"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="Git"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="GitHub"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="Docker"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="Linux"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="45" height="45" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="Gunicorn/Nginx"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="45" height="45" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="Pytest"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="45" height="45" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="Selenium"/>
+        <!-- Технологии без иконок - добавляем в конце -->
     </div>
+    
+<!-- Технологии без картинок в конце -->
+<div style="margin-top: 20px; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <span style="background: #edf2f7; color: #2c3e50; padding: 6px 14px; border-radius: 20px; font-size: 0.9em; border: 1px solid #d0d9e4;">ООП</span>
+    <span style="background: #edf2f7; color: #2c3e50; padding: 6px 14px; border-radius: 20px; font-size: 0.9em; border: 1px solid #d0d9e4;">Алгоритмы</span>
+    <span style="background: #edf2f7; color: #2c3e50; padding: 6px 14px; border-radius: 20px; font-size: 0.9em; border: 1px solid #d0d9e4;">Структуры данных</span>
+    <span style="background: #edf2f7; color: #2c3e50; padding: 6px 14px; border-radius: 20px; font-size: 0.9em; border: 1px solid #d0d9e4;">CI/CD</span>
+    <span style="background: #edf2f7; color: #2c3e50; padding: 6px 14px; border-radius: 20px; font-size: 0.9em; border: 1px solid #d0d9e4;">API</span>
+    <span style="background: #edf2f7; color: #2c3e50; padding: 6px 14px; border-radius: 20px; font-size: 0.9em; border: 1px solid #d0d9e4;">aiogram</span>
+    <span style="background: #edf2f7; color: #2c3e50; padding: 6px 14px; border-radius: 20px; font-size: 0.9em; border: 1px solid #d0d9e4;">Scrapy</span>
+    <span style="background: #edf2f7; color: #2c3e50; padding: 6px 14px; border-radius: 20px; font-size: 0.9em; border: 1px solid #d0d9e4;">Unittest</span>
+    <span style="background: #edf2f7; color: #2c3e50; padding: 6px 14px; border-radius: 20px; font-size: 0.9em; border: 1px solid #d0d9e4;">ccxt</span>
+    <span style="background: #edf2f7; color: #2c3e50; padding: 6px 14px; border-radius: 20px; font-size: 0.9em; border: 1px solid #d0d9e4;">Pydantic</span>
+    <span style="background: #edf2f7; color: #2c3e50; padding: 6px 14px; border-radius: 20px; font-size: 0.9em; border: 1px solid #d0d9e4;">Uvicorn</span>
+    <span style="background: #edf2f7; color: #2c3e50; padding: 6px 14px; border-radius: 20px; font-size: 0.9em; border: 1px solid #d0d9e4;">Asyncio</span>
 </div>
-
-<!-- Статистика -->
-<div style="margin: 40px 0 20px; background: #ffffff; padding: 25px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); border: 1px solid #eaeef2;">
-    <h4 style="color: #34495e; margin: 0 0 20px 0; font-size: 1.3em;">📊 GitHub Статистика</h4>
-    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Hixtop&show_icons=true&theme=graywhite&hide_border=true&bg_color=ffffff&text_color=2c3e50&icon_color=5D6D7E&title_color=34495e" alt="GitHub Stats" style="border-radius: 8px;"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hixtop&layout=compact&theme=graywhite&hide_border=true&bg_color=ffffff&text_color=2c3e50&title_color=34495e" alt="Top Languages" style="border-radius: 8px;"/>
-    </div>
 </div>
 
 <!-- Контакты -->
