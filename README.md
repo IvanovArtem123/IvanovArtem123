@@ -94,37 +94,3 @@
     <p>🔥 Открыт для интересных предложений 🔥</p>
 </div>
 </div>
-
-<style>
-    /* Дополнительные стили для красоты */
-    #header {
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        max-width: 1200px;
-        margin: 0 auto;
-    }
-    
-    h1 {
-        color: #2c3e50;
-        font-size: 2.5em;
-        margin-bottom: 10px;
-        text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
-    }
-    
-    h3 {
-        color: #666;
-        font-weight: 400;
-        margin-bottom: 30px;
-    }
-    
-    img {
-        transition: all 0.3s ease;
-    }
-    
-    img:hover {
-        filter: drop-shadow(0 5px 15px rgba(102,126,234,0.4));
-    }
-    
-    .tech-tag {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    }
-</style>
